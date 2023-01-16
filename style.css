@@ -1,0 +1,42 @@
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.background {
+    width: 95vw;
+    height: 95vh;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    width: 20rem;
+    height: 20rem;
+    border-radius: 10px;
+}
+
+.box {
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    width: 350px;
+    height: 550px;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    font-family: 'Rowdies', cursive;
+    color: hsl(218, 44%, 22%);
+}
+
+p{
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+}
