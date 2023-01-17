@@ -6,6 +6,9 @@
     color: hsl(228, 45%, 44%); 
 }
 
+body{
+    margin: 0;
+}
 .background {
     margin: 0;
     width: 100vw;
